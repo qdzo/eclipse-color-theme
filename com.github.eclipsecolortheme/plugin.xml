@@ -23,6 +23,12 @@
          point="com.github.eclipsecolortheme.mapper">
       <mapper
             class="com.github.eclipsecolortheme.mapper.GenericMapper"
+            name="Ceylon"
+            pluginId="com.redhat.ceylon.eclipse.ui"
+            xml="mappings/com.redhat.ceylon.eclipse.ui.xml">
+      </mapper>
+      <mapper
+            class="com.github.eclipsecolortheme.mapper.GenericMapper"
             name="protobuf"
             pluginId="com.google.eclipse.protobuf.Protobuf"
             xml="mappings/com.google.eclipse.protobuf.Protobuf.xml">

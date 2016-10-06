@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eclipseColorThemeMapping plugin="com.redhat.ceylon.eclipse.ui" created="2016-10-05 20:18:00">
+    <mappings>
+        <mapping pluginKey="editor.coloring2.keyword_self" themeKey="class"/>
+        <mapping pluginKey="com.redhat.ceylon.eclipse.ui.theme.color.keywords" themeKey="keyword" /> 
+        <mapping pluginKey="com.redhat.ceylon.eclipse.ui.theme.color.types" themeKey="class" /> 
+        <mapping pluginKey="com.redhat.ceylon.eclipse.ui.theme.color.members" themeKey="field" /> 
+        <mapping pluginKey="com.redhat.ceylon.eclipse.ui.theme.color.numbers" themeKey="number" /> 
+        <mapping pluginKey="com.redhat.ceylon.eclipse.ui.theme.color.strings" themeKey="string" /> 
+        <mapping pluginKey="com.redhat.ceylon.eclipse.ui.theme.color.characters" themeKey="string" /> 
+        <mapping pluginKey="com.redhat.ceylon.eclipse.ui.theme.color.interpolation" themeKey="string" /> 
+        <mapping pluginKey="com.redhat.ceylon.eclipse.ui.theme.color.semis" themeKey="bracket" /> 
+        <mapping pluginKey="com.redhat.ceylon.eclipse.ui.theme.color.braces" themeKey="bracket" /> 
+        <mapping pluginKey="com.redhat.ceylon.eclipse.ui.theme.color.typeLiterals" themeKey="bracket" /> 
+        <mapping pluginKey="com.redhat.ceylon.eclipse.ui.theme.color.comments" themeKey="singleLineComment" />
+        <mapping pluginKey="com.redhat.ceylon.eclipse.ui.theme.color.annotationstrings" themeKey="javadoc" />
+        <mapping pluginKey="com.redhat.ceylon.eclipse.ui.theme.color.documentationBackground" themeKey="backgroud" />
+        <mapping pluginKey="com.redhat.ceylon.eclipse.ui.theme.color.identifiers" themeKey="field" />
+        <mapping pluginKey="com.redhat.ceylon.eclipse.ui.theme.color.annotations" themeKey="annotation" />
+<!--         <mapping pluginKey="AbstractTextEditor.Color.Background" themeKey="background" />
+        <mapping pluginKey="AbstractTextEditor.Color.Foreground" themeKey="foreground" /> 
+        <mapping pluginKey="AbstractTextEditor.Color.SelectionBackground" themeKey="selectionBackground" />
+        <mapping pluginKey="AbstractTextEditor.Color.SelectionForeground" themeKey="selectionForeground" /> 
+        <mapping pluginKey="AbstractTextEditor.Color.FindScope" themeKey="findScope" /> 
+        <mapping pluginKey="currentLineColor" themeKey="currentLine" /> 
+        <mapping pluginKey="lineNumberColor" themeKey="lineNumber" />
+        <mapping pluginKey="filteredSearchResultIndicationColor" themeKey="filteredSearchResultIndication" />
+        <mapping pluginKey="searchResultIndicationColor" themeKey="searchResultIndication" /> 
+        <mapping pluginKey="occurrenceIndicationColor" themeKey="occurrenceIndication" /> 
+        <mapping pluginKey="writeOccurrenceIndicationColor" themeKey="writeOccurrenceIndication" /> 
+        <mapping pluginKey="deletionIndicationColor" themeKey="deletionIndication" /> 
+ -->    
+        <!-- <mapping pluginKey="hyperlinkColor" themeKey="javadocLink" /> 102,175,249' -->
+        <!-- <mapping pluginKey="HYPERLINK_COLOR" themeKey="javadocLink" /> 254,90,185' -->
+        <!-- <mapping pluginKey="ACTIVE_HYPERLINK_COLOR" themeKey="" /> ??? 203,72,148' -->
+    
+        <!-- <mapping pluginKey="com.redhat.ceylon.eclipse.ui.theme.color.initializerAnnotation" themeKey="annotation" /> ??? 153,102,0' -->
+        <!-- <mapping pluginKey="com.redhat.ceylon.eclipse.ui.theme.color.rangeIndicatorAnnotation" themeKey="annotation" /> ??? 51,0,0' -->
+<!--         <mapping pluginKey="com.redhat.ceylon.eclipse.ui.theme.color.packages" themeKey="" /> 129,91,164'
+ -->          <!-- <mapping pluginKey="declarationColorPreference" themeKey="methodDeclaration" /> 102,51,51' -->
+        <!-- <mapping pluginKey="CONTENT_ASSIST_BACKGROUND_COLOR" themeKey="background" /> ??? 0,0,0' -->
+        <!-- <mapping pluginKey="CONTENT_ASSIST_FOREGROUND_COLOR" themeKey="bracket" /> !!! cos bracket -->
+
+        <mapping pluginKey="printMarginColor" themeKey="number" />
+        <mapping pluginKey="asOccurencesIndicationColor" themeKey="occurrenceIndication" />
+        <mapping pluginKey="matchingTagIndicationColor" themeKey="occurrenceIndication" />
+        <mapping pluginKey="currentIPColor" themeKey="currentLine" /> 
+        <mapping pluginKey="secondaryIPColor" themeKey="currentLine" />
+      
+          <!-- <mapping pluginKey="com.redhat.ceylon.eclipse.ui.theme.color.matches" themeKey="" /> 0,128,255' -->
+        <!-- <mapping pluginKey="com.redhat.ceylon.eclipse.ui.theme.matchingBracketsColor" themeKey="" /> 0,128,255' -->
+    
+        <!-- <mapping pluginKey="occurrenceColorPreference" themeKey="" /> 51,51,102' -->
+        <!-- <mapping pluginKey="assignmentColorPreference" themeKey="" /> 51,102,51' -->
+        <!-- <mapping pluginKey="breakpointIndicationColor" themeKey="" /> 51,119,193' -->
+        <!-- <mapping pluginKey="errorIndicationColor" themeKey="" /> 179,26,64' -->
+        <!-- <mapping pluginKey="infoIndicationColor" themeKey="" /> 86,194,170' -->
+        <!-- <mapping pluginKey="linked.slave.color" themeKey="" /> 66,156,255' -->
+        <!-- <mapping pluginKey="overrideIndicatorColor" themeKey="" /> 78,120,117' -->
+        <!-- <mapping pluginKey="spellingIndicationColor" themeKey="" /> 253,170,211' -->
+        <!-- <mapping pluginKey="warningIndicationColor" themeKey="" /> 156,114,3' -->
+        <!-- <mapping pluginKey="com.redhat.ceylon.eclipse.ui.parseAnnotation.error.color" themeKey="" /> 204,0,0' -->
+        <!-- <mapping pluginKey="com.redhat.ceylon.eclipse.ui.parseAnnotation.warning.color" themeKey="" /> 102,102,51' -->
+    </mappings>
+</eclipseColorThemeMapping>
+        
